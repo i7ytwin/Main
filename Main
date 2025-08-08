@@ -1,17 +1,17 @@
 {
-  "name": "ㅤㅤㅤㅤㅤㅤㅤ",
-  "author": "ㅤ",
+  "name": "",
+  "author": "",
   "image": "https://raw.githubusercontent.com/i7ytwin/image/refs/heads/main/4bd4be3ac355a4752bf9bbc541a18927.png",
   "url": "https://raw.githubusercontent.com/i7ytwin/Main/refs/heads/main/Main",
   "groups": [
     {
       "name": "",
-      "image": "https://raw.githubusercontent.com/i7ytwin/image/refs/heads/main/360_F_786744436_kY0pEddGsULVlPCma90qTX4r6SuxFLOg.png",
+      "image": "https://raw.githubusercontent.com/i7ytwin/image/refs/heads/main/fc8fx62e3ac355a4752bf9bbc541a18927%20(2).png",
       "url": "https://raw.githubusercontent.com/i7ytwin/Main/refs/heads/main/Main"
     },
     {
       "name": "Sports",
-      "image": "https://images.emojiterra.com/microsoft/fluent-emoji/15.1/1024px/1f535_color.png",
+      "image": "https://raw.githubusercontent.com/i7ytwin/image/refs/heads/main/4bd4be3ac355a4752bf9bbc2541a18927.png",
       "url": "https://raw.githubusercontent.com/i7ytwin/sport/refs/heads/main/sport.json",
       "import": false
     },
