@@ -6,12 +6,12 @@
   "groups": [
     {
       "name": "Refresh",
-      "image": "https://i.pinimg.com/1200x/ad/a0/3a/ada03af4702793ceb0961ea5977dceb4.jpg",
+      "image": "https://support.heberjahiz.com/hc/article_attachments/21013076295570",
       "url": "https://raw.githubusercontent.com/i7ytwin/Main/refs/heads/main/Main"
     },
     {
       "name": "Sports",
-      "image": "https://www.macworld.com/wp-content/uploads/2023/12/folder-icon-macos.png",
+      "image": "https://i.redd.it/hbxy0q8sbyf71.png",
       "url": "https://raw.githubusercontent.com/i7ytwin/sport/refs/heads/main/sport.json",
       "import": false
     },
