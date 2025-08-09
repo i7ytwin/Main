@@ -10,10 +10,17 @@
       "url": "https://raw.githubusercontent.com/i7ytwin/Main/refs/heads/main/Main"
     },
     {
+      "name": "digital-TV",
+      "image": "https://i.redd.it/hbxy0q8sbyf71.png",
+      "url": "https://raw.githubusercontent.com/i7ytwin/digital-tv/refs/heads/main/digital-tv.json",
+      "import": false
+    },
+    {
       "name": "Sports",
       "image": "https://i.redd.it/hbxy0q8sbyf71.png",
       "url": "https://raw.githubusercontent.com/i7ytwin/sport/refs/heads/main/sport.json",
       "import": false
     },
+
   ]
 }
